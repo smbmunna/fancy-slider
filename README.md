@@ -1,1 +1,1 @@
-# fancy-slider
+https://smbmunna.github.io/fancy-slider/
